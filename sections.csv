@@ -1,0 +1,4 @@
+sectionId,courseCode,instructorId,dayTime,room,capacity,semester,year
+CSE101-A,CSE101,2,Mon/Wed 1:00-3:00,C102,2,1,1
+CSE102-A,CSE102,3,Mon/Wed 11-12,C102,2,1,1
+COM301-A,COM301,7,Mon/Wed 1-2:30pm,A006,150,3,2

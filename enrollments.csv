@@ -1,0 +1,7 @@
+enrollmentId,studentId,sectionId,status
+0,9,CSE201-A,enrolled
+0,4,CSE201-A,dropped
+1,4,CSE101-A,enrolled
+2,5,CSE101-A,enrolled
+3,4,CSE102-A,dropped
+4,4,CSE102-A,enrolled
