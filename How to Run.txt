@@ -1,0 +1,14 @@
+How to Run (IntelliJ IDEA)
+
+Open IntelliJ IDEA
+→ File > Open
+→ Select the project folder ERP (the one containing src/ and auth.csv, students.csv, etc.)
+
+Go to:
+
+src/edu/univ/erp/Main.java
+
+
+Right-click on Main.java → Run 'Main.main()'
+
+The login window will open.
