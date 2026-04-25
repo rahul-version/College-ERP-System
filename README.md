@@ -26,20 +26,6 @@ A Java-based College ERP (Enterprise Resource Planning) system designed to manag
 
 ---
 
-## 📁 Project Structure
-
-```
-college-erp-system/
-│── src/                # Java source code
-│── csv's               # CSV files (users, courses, etc.)
-│── docs/               # Report and UML diagrams
-│── demo/               # Demo video
-│── README.md
-│── .gitignore
-```
-
----
-
 ## ⚙️ How to Run
 
 1. Open the project in IntelliJ IDEA or Eclipse
